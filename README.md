@@ -33,4 +33,4 @@ python main.py
   - excelファイル：xlsx  
   - sqlite3ファイル：db, sqlite3
   
-- csvファイルの場合はsetting.ini/table_nameはnoneで構いません。
+- csvファイルの場合はsetting.ini/table_name=noneで構いません。
