@@ -29,8 +29,8 @@ python main.py
 
 ## 注意点
 - 対応しているファイルの拡張子は以下の通りです。  
-csvファイル：csv  
-excelファイル：xlsx  
-sqlite3ファイル：db, sqlite3
+  - csvファイル：csv  
+  - excelファイル：xlsx  
+  - sqlite3ファイル：db, sqlite3
   
 - csvファイルの場合はsetting.ini/table_nameはnoneで構いません。
